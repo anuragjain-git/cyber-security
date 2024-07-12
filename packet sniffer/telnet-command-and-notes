@@ -1,0 +1,12 @@
+configure telnet packet using packet snifer 
+see password sent through telnet packet
+
+telnet command
+
+en
+conf t
+line vty 0 5
+password cisco
+login
+
+in pc0 command prompt : telnet 192.168.2.1 and verify telnet packet
