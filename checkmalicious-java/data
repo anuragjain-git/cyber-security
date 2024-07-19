@@ -1,0 +1,12 @@
+Frame 13: 55 bytes on wire (440 bits), 55 bytes captured (440 bits) on the
+interface.
+Source MAC: AzureWav6c : bc : e5(dc : f 5 : 05 : 6c : bc : e5)
+Destination MAC: ca:a5:be:7e:a2:22 (ca:a5:be:7e:a2:22)
+Internet Protocol Version 4
+Source IP: 117.82.77.153
+Destination IP: 142.250.193.138
+Transmission Control Protocol, Src Port: 2989, Dst Port: 443, Seq: 1,
+Ack: 1, Len: 1
+Source Port: 2989
+Destination Port: 443
+TCP payload (1 byte)
